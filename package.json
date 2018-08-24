@@ -1,0 +1,17 @@
+{
+  "name": "react-native-react-native-purchase",
+  "version": "0.0.1",
+  "description": "In app purchases in React Native for both Android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.56.0"
+  }
+}
